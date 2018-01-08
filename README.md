@@ -23,9 +23,19 @@ The package exposes the class `system-ui`.
 
 #### browser
 
+```html
 <link rel="stylesheet" href="https://unpkg.com/system-ui.css" />
+```
 
 #### webpack
+
+```bash
+npm i -P system-ui.css
+
+# or
+
+yarn add system-ui.css
+```
 
 ```js
 import "system-ui.css";
