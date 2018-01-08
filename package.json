@@ -1,6 +1,6 @@
 {
   "name": "system-ui.css",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "An opinionated system-ui fallback, exposed as a class",
   "main": "system-ui.css",
   "style": "system-ui.css",
