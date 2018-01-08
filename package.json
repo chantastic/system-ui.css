@@ -1,9 +1,9 @@
 {
   "name": "system-ui.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An opinionated system-ui fallback, exposed as a class",
-  "main": "index.css",
-  "style": "index.css",
+  "main": "system-ui.css",
+  "style": "system-ui.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
