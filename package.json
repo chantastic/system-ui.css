@@ -1,0 +1,20 @@
+{
+  "name": "system-ui.css",
+  "version": "1.0.0",
+  "description": "An opinionated system-ui fallback, exposed as a class",
+  "main": "index.css",
+  "style": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chantastic/system-ui.css.git"
+  },
+  "author": "Michael Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/system-ui.css/issues"
+  },
+  "homepage": "https://github.com/chantastic/system-ui.css#readme"
+}
